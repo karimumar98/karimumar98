@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karimumar98
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying Computer Science @ ETH Zürich
+- 🔭 I’m currently finishing an MSc in Computer Science @ ETH Zürich and am an ex-AWS intern
+- I’m currently open for a new job opportunity
 - 📫 How to reach me karim.umar@outlook.com
 
 <!---
